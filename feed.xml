@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>The Human Side of AI</title>
+  <title>AI Brief for Coaches &amp; Small Business</title>
   <link>https://ai.completelyhumancoaching.com/</link>
   <atom:link href="https://ai.completelyhumancoaching.com/feed.xml" rel="self" type="application/rss+xml"/>
-  <description>What&#x27;s changing in AI that actually affects coaches and small businesses, in plain language, twice a week.</description>
+  <description>What&#x27;s changing in AI that actually affects coaches and small businesses, in plain language. New issues every Tuesday and Friday by 7 a.m. Eastern.</description>
   <language>en-us</language>
   <item>
     <title>Tuesday, September 29, 2026: AI agents start leaking personal data and breaking into systems—what it means for small business adoption</title>

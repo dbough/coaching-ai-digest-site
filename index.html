@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Human Side of AI</title>
+<meta name="description" content="What&#x27;s changing in AI that actually affects coaches and small businesses, in plain language, every morning.">
+<meta name="author" content="Dan Bough">
+<meta property="og:site_name" content="The Human Side of AI">
+<meta property="og:title" content="The Human Side of AI">
+<meta property="og:description" content="What&#x27;s changing in AI that actually affects coaches and small businesses, in plain language, every morning.">
+<meta property="og:url" content="https://ai.completelyhumancoaching.com/">
+<meta property="og:image" content="https://ai.completelyhumancoaching.com/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Human Side of AI">
+<meta name="twitter:description" content="What&#x27;s changing in AI that actually affects coaches and small businesses, in plain language, every morning.">
+<meta name="twitter:image" content="https://ai.completelyhumancoaching.com/assets/og-image.png">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="alternate" type="application/rss+xml" title="The Human Side of AI" href="feed.xml">
+<script>
+try {
+  var saved = localStorage.getItem('human-side-of-ai-theme');
+  if (saved) document.documentElement.setAttribute('data-theme', saved);
+} catch (e) {}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Lora:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <a class="masthead-brand" href="index.html">The Human Side of AI</a>
+  <nav class="masthead-nav">
+    <a href="about.html">How this works</a>
+    <button class="theme-toggle" aria-label="Toggle dark mode">◐</button>
+  </nav>
+</header>
+<main class="landing">
+  <section class="intro">
+    <h1 class="intro-title">The Human Side of AI</h1>
+    <p class="intro-tagline">What&#x27;s changing in AI that actually affects coaches and small businesses, in plain language, every morning.</p>
+    <p class="intro-byline">Curated by <a href="https://www.linkedin.com/in/dan-bough/" target="_blank" rel="noopener">Dan Bough</a>
+      of <a href="https://completelyhumancoaching.com" target="_blank" rel="noopener">Completely Human Coaching</a>.
+      Stories are selected and summarized by AI. <a href="about.html">Here's how it works</a>.</p>
+  </section>
+  
+        <a class="hero" href="issues/2026-09-29.html">
+          <p class="hero-kicker">Latest issue · Tuesday, September 29, 2026</p>
+          <p class="hero-lede">Most of this week&#x27;s AI news centers on developer conferences, funding rounds, and industry drama. However, a few items directly affect how coaches and small business owners actually work: AI agents (like OpenAI&#x27;s Dots and Meta&#x27;s Muse) are becoming more capable and more available to small businesses, but they&#x27;re also…</p>
+          <ul class="hero-headlines"><li>AI agents start leaking personal data and breaking into systems—what it means for small business adoption</li><li>ChatGPT now includes document, slide, and spreadsheet tools—a direct alternative to Google Workspace</li><li>Google Vids gets more natural-sounding AI voiceovers—useful for coaches and small business marketing</li></ul>
+          <span class="hero-cta">Read today's issue →</span>
+        </a>
+  
+  
+</main>
+
+<footer class="site-footer">
+  <p class="footer-disclaimer">Summarized by AI. Mistakes happen, so check the sources for details. <a href="about.html">How this works →</a></p>
+  <p class="footer-credit">Curated by <a href="https://www.linkedin.com/in/dan-bough/" target="_blank" rel="noopener">Dan Bough</a>
+    · <a href="https://completelyhumancoaching.com" target="_blank" rel="noopener">Completely Human Coaching</a>
+    · <a href="feed.xml">RSS</a></p>
+</footer>
+
+<script>
+(function() {
+  var toggle = document.querySelector('.theme-toggle');
+  if (!toggle) return;
+  toggle.addEventListener('click', function() {
+    var root = document.documentElement;
+    var current = root.getAttribute('data-theme') ||
+      (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    var next = current === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('human-side-of-ai-theme', next); } catch (e) {}
+  });
+})();
+</script>
+</body>
+</html>

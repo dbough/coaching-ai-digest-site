@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How this works · The Human Side of AI</title>
+<meta name="description" content="How the daily AI briefing for coaches and small businesses is sourced, selected, and summarized, and why you should always check the sources.">
+<meta name="author" content="Dan Bough">
+<meta property="og:site_name" content="The Human Side of AI">
+<meta property="og:title" content="How this works · The Human Side of AI">
+<meta property="og:description" content="How the daily AI briefing for coaches and small businesses is sourced, selected, and summarized, and why you should always check the sources.">
+<meta property="og:url" content="https://ai.completelyhumancoaching.com/about.html">
+<meta property="og:image" content="https://ai.completelyhumancoaching.com/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How this works · The Human Side of AI">
+<meta name="twitter:description" content="How the daily AI briefing for coaches and small businesses is sourced, selected, and summarized, and why you should always check the sources.">
+<meta name="twitter:image" content="https://ai.completelyhumancoaching.com/assets/og-image.png">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="alternate" type="application/rss+xml" title="The Human Side of AI" href="feed.xml">
+<script>
+try {
+  var saved = localStorage.getItem('human-side-of-ai-theme');
+  if (saved) document.documentElement.setAttribute('data-theme', saved);
+} catch (e) {}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Lora:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <a class="masthead-brand" href="index.html">The Human Side of AI</a>
+  <nav class="masthead-nav">
+    <a href="about.html">How this works</a>
+    <button class="theme-toggle" aria-label="Toggle dark mode">◐</button>
+  </nav>
+</header>
+<main class="about">
+  <h1 class="about-title">How this works</h1>
+  <p class="about-lede">The Human Side of AI is a short daily briefing on the AI developments that
+    affect coaches and small businesses. It isn't general AI news. It covers what changes how you
+    work, serve clients, market yourself, run your business, and protect the trust your clients
+    place in you.</p>
+
+  <div class="disclaimer-box">
+    <strong>Mistakes happen.</strong> AI-generated summaries can contain mistakes or miss nuance. Always check the linked original sources before acting on anything here.
+  </div>
+
+  <h2>1. Finding the news</h2>
+  <p>Every morning an automated process checks a hand-picked list of about twenty sources for
+    anything published since the previous issue. The list includes:</p>
+  <ul>
+    <li>announcements from the major AI companies, such as OpenAI, Anthropic, Google, Microsoft
+      and Meta</li>
+    <li>product update blogs for everyday tools like Google Workspace and Microsoft 365</li>
+    <li>established technology journalism</li>
+    <li>business and management publications</li>
+  </ul>
+  <p>That's usually somewhere between a few dozen and a hundred articles.</p>
+
+  <h2>2. Choosing and summarizing</h2>
+  <p>All of those articles go to one AI model (Anthropic's Claude) together, in a single pass. The
+    model:</p>
+  <ul>
+    <li><strong>Groups coverage of the same event</strong> into one story, so you don't read the
+      same news five times.</li>
+    <li><strong>Keeps only what affects coaches and small businesses.</strong> A huge AI-industry
+      headline gets left out if it doesn't change anything for you.</li>
+    <li><strong>Rates each story</strong> by how much it matters to these readers, and whether
+      it's most useful for coaches, small businesses, or both.</li>
+    <li><strong>Writes a plain-language summary</strong> with why it matters, a small "Try this"
+      suggestion, and links to the original sources it relied on.</li>
+  </ul>
+  <p>If nothing clears the bar, the issue says so rather than filling space.</p>
+
+  <h2>3. What a human does, and doesn't do</h2>
+  <p>Dan Bough chose the sources, wrote the instructions the AI follows, and designed the
+    process. Individual issues are published automatically and aren't reviewed by a person
+    first. That's why every story links to its sources, and why you should read those sources
+    before acting on anything.</p>
+
+  <h2>Who's behind this</h2>
+  <div class="author-card">
+    <img src="assets/dan-bough.jpg" alt="Dan Bough" class="author-photo" width="96" height="96">
+    <p>Dan Bough is a coach at <a href="https://completelyhumancoaching.com" target="_blank" rel="noopener">Completely Human Coaching</a>,
+      helping people find fulfillment in their lives. This briefing exists to keep fellow
+      coaches and small business owners informed about AI without the hype.
+      <a href="https://www.linkedin.com/in/dan-bough/" target="_blank" rel="noopener">Connect on LinkedIn</a>.</p>
+  </div>
+
+  <nav class="issue-nav"><a href="index.html">← Latest issue</a></nav>
+</main>
+
+<footer class="site-footer">
+  <p class="footer-disclaimer">Summarized by AI. Mistakes happen, so check the sources for details. <a href="about.html">How this works →</a></p>
+  <p class="footer-credit">Curated by <a href="https://www.linkedin.com/in/dan-bough/" target="_blank" rel="noopener">Dan Bough</a>
+    · <a href="https://completelyhumancoaching.com" target="_blank" rel="noopener">Completely Human Coaching</a>
+    · <a href="feed.xml">RSS</a></p>
+</footer>
+
+<script>
+(function() {
+  var toggle = document.querySelector('.theme-toggle');
+  if (!toggle) return;
+  toggle.addEventListener('click', function() {
+    var root = document.documentElement;
+    var current = root.getAttribute('data-theme') ||
+      (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    var next = current === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('human-side-of-ai-theme', next); } catch (e) {}
+  });
+})();
+</script>
+</body>
+</html>

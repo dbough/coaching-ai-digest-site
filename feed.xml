@@ -7,6 +7,47 @@
   <description>What&#x27;s changing in AI that actually affects coaches and small businesses, in plain language. New issues every Tuesday and Friday by 7 a.m. Eastern.</description>
   <language>en-us</language>
   <item>
+    <title>Friday, October 2, 2026: OpenAI teams up with small business centers on AI training, and publishes a report on small-team use</title>
+    <link>https://ai.completelyhumancoaching.com/issues/2026-10-02.html</link>
+    <guid isPermaLink="true">https://ai.completelyhumancoaching.com/issues/2026-10-02.html</guid>
+    <pubDate>Fri, 02 Oct 2026 07:00:00 -0400</pubDate>
+    <description>This week&#x27;s useful news is mostly about the everyday basics of using AI at work. Research suggests the way leaders talk about AI shapes whether their people actually use it. Security and privacy keep coming up, from small-business cyber threats to a patched flaw in a popular chat app. The tools you may already use, like Google Workspace and Shopify, keep shifting under you, and a new wave of personal AI agents is arriving. Most of this week&#x27;s other AI headlines were about big-company deals and models, and none of them changed much for a solo practice or small team.</description>
+    <content:encoded><![CDATA[<p><em>This week&#x27;s useful news is mostly about the everyday basics of using AI at work. Research suggests the way leaders talk about AI shapes whether their people actually use it. Security and privacy keep coming up, from small-business cyber threats to a patched flaw in a popular chat app. The tools you may already use, like Google Workspace and Shopify, keep shifting under you, and a new wave of personal AI agents is arriving. Most of this week&#x27;s other AI headlines were about big-company deals and models, and none of them changed much for a solo practice or small team.</em></p>
+<h2>OpenAI teams up with small business centers on AI training, and publishes a report on small-team use</h2>
+<p>OpenAI says it is partnering with America&#x27;s SBDC (Small Business Development Centers) to offer hands-on AI training and local support to small businesses. It also released a report on how small teams use AI. The report comes from a company that sells AI tools, and the candidate text doesn&#x27;t include its findings or methods, so read the numbers with that in mind. The training offer is the concrete part.</p>
+<p><strong>Why it matters:</strong> Free or low-cost local help with AI could lower the barrier for owners who don&#x27;t know where to start, and the report may show what peers are actually doing.</p>
+<p><strong>Try this:</strong> Look up your local SBDC and ask whether it offers AI workshops. Skim the report for use cases that match your work, and keep in mind who wrote it.</p>
+<p>Sources: <a href="https://openai.com/index/helping-small-businesses-put-ai-to-work">openai.com</a></p>
+<h2>A flaw in ChatGPT&#x27;s Mac app could have exposed sensitive data (now patched)</h2>
+<p>Wired reports that a recently patched vulnerability in ChatGPT&#x27;s Mac app could have let hackers grab sensitive data. The story&#x27;s point is that AI apps are now targets themselves, not just tools for attackers. The flaw has been fixed, and the summary doesn&#x27;t say whether anyone was affected.</p>
+<p><strong>Why it matters:</strong> If you or your clients paste confidential session notes or business details into an AI app, that app&#x27;s security becomes part of your duty to protect client privacy.</p>
+<p><strong>Try this:</strong> Make sure your AI apps are set to update automatically, and avoid pasting names or sensitive details you wouldn&#x27;t want leaked.</p>
+<p>Sources: <a href="https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/">wired.com</a></p>
+<h2>Shopify lets merchants build and edit an online store by chatting with its AI</h2>
+<p>Shopify has launched Canvas, a site builder where merchants describe changes to its AI agent, Sidekick, and watch their store update in real time. This is Shopify&#x27;s own description, and we haven&#x27;t seen independent testing. It&#x27;s one more sign that website builders are moving from drag-and-drop to plain-language requests.</p>
+<p><strong>Why it matters:</strong> Owners who sell products, programs or digital downloads online may be able to make site changes without hiring a designer, though quality and control are still open questions.</p>
+<p><strong>Try this:</strong> If you use Shopify, try one small change, like rewording a product page, and check the result carefully before publishing.</p>
+<p>Sources: <a href="https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/">techcrunch.com</a></p>
+<h2>Google is replacing Gems with &#x27;skills&#x27; in Gemini and Workspace</h2>
+<p>Google says skills, which are reusable instructions that guide Gemini, are rolling out to Workspace users over the coming weeks. They will eventually replace Gems, the custom helpers some people built. Google&#x27;s post includes dates for the transition away from Gems.</p>
+<p><strong>Why it matters:</strong> If your practice or team relies on a custom Gem, like a client-email drafter or a session-prep helper, it will need to move over.</p>
+<p><strong>Try this:</strong> List any Gems you use, then read Google&#x27;s post for the transition dates so nothing disappears mid-project.</p>
+<p>Sources: <a href="http://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html">workspaceupdates.googleblog.com</a></p>
+<h2>OpenAI&#x27;s Dots and Meta&#x27;s Muse: personal AI agents arrive for everyday users</h2>
+<p>OpenAI announced Dots, a personal AI agent (an assistant that can take actions for you, not just chat), to compete with Meta&#x27;s Muse. Both use friendly, cartoon-like characters. A Wired writer who tried both says he suspects readers will too, and Zapier has published a how-to for Muse. These are early reviews, not tested results, and we don&#x27;t have independent data on reliability or price.</p>
+<p><strong>Why it matters:</strong> Your clients, and soon your customers, may start handing tasks to personal agents, and you may be tempted to do the same with email and calendars.</p>
+<p><strong>Try this:</strong> If you try one, start with a low-stakes task, like organizing a to-do list, and check what permissions it asks for.</p>
+<p>Sources: <a href="https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/">wired.com</a> · <a href="https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle">theverge.com</a> · <a href="https://zapier.com/blog/muse-ai">zapier.com</a></p>
+<h2>Worth watching</h2><ul>
+<li>Meta disputes a journalist&#x27;s claim that its Muse agent read his private messages while the required Mac setting was off, a reminder to check what permissions any agent really has. <a href="https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/">Source</a></li>
+<li>A PwC survey finds business and tech leaders disagree on who is responsible for AI risk at work, a gap small teams can close by naming one person. <a href="https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/">Source</a></li>
+<li>A federal judge dismissed antitrust lawsuits over Google&#x27;s AI Overviews, so the traffic drop that AI search answers cause for websites is unlikely to be fixed in court soon. <a href="https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed">Source</a></li>
+</ul>
+<h2>One thing to explore: Zapier&#x27;s roundup of the 7 best meeting scheduler apps</h2>
+<p>If you still trade emails to book sessions or client calls, a scheduling app can handle the back-and-forth, block open slots in your calendar and send the video link. Spend 20 minutes with Zapier&#x27;s comparison, pick one that has a free tier, and test it with one friendly client. Zapier makes its own automation tools, so weigh its picks accordingly. <a href="https://zapier.com/blog/best-meeting-scheduler-apps">Start here</a></p>
+<hr><p><small>AI-generated with no human review; may contain errors. Verify with the sources and use your own judgment. Dan Bough isn&#x27;t responsible for its accuracy.<br><a href="https://www.linkedin.com/in/dan-bough/">Dan Bough</a> · <a href="https://completelyhumancoaching.com">Completely Human Coaching</a> · <a href="https://www.linkedin.com/in/dan-bough/">Feedback</a> · <a href="https://ai.completelyhumancoaching.com/about.html">How this works</a></small></p>]]></content:encoded>
+  </item>
+  <item>
     <title>Tuesday, September 29, 2026: Meta is bringing its Muse AI agent to small businesses</title>
     <link>https://ai.completelyhumancoaching.com/issues/2026-09-29.html</link>
     <guid isPermaLink="true">https://ai.completelyhumancoaching.com/issues/2026-09-29.html</guid>

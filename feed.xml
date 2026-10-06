@@ -7,6 +7,47 @@
   <description>What&#x27;s changing in AI that actually affects coaches and small businesses, in plain language. New issues every Tuesday and Friday by 7 a.m. Eastern.</description>
   <language>en-us</language>
   <item>
+    <title>Tuesday, October 6, 2026: Meta&#x27;s Muse AI assistant raises privacy alarms, and Apple tightens its Mac settings in response</title>
+    <link>https://ai.completelyhumancoaching.com/issues/2026-10-06.html</link>
+    <guid isPermaLink="true">https://ai.completelyhumancoaching.com/issues/2026-10-06.html</guid>
+    <pubDate>Tue, 06 Oct 2026 07:00:00 -0400</pubDate>
+    <description>This week&#x27;s theme is trust. AI assistants are being given more access to messages, calendars and files, and the privacy fallout is already showing up. At the same time, scammers are posing as ChatGPT, free AI tiers are shrinking, and AI is moving into hiring and personal advice, which touches your clients&#x27; lives and your own offers. Not much hard research passed our filter this week, so most of what follows is practical: check your settings, check your links, and know what your clients may be facing.</description>
+    <content:encoded><![CDATA[<p><em>This week&#x27;s theme is trust. AI assistants are being given more access to messages, calendars and files, and the privacy fallout is already showing up. At the same time, scammers are posing as ChatGPT, free AI tiers are shrinking, and AI is moving into hiring and personal advice, which touches your clients&#x27; lives and your own offers. Not much hard research passed our filter this week, so most of what follows is practical: check your settings, check your links, and know what your clients may be facing.</em></p>
+<h2>Meta&#x27;s Muse AI assistant raises privacy alarms, and Apple tightens its Mac settings in response</h2>
+<p>Wired reports that Meta&#x27;s AI assistant Muse, which millions have downloaded, builds detailed profiles of users&#x27; friends and family, and that getting it to do useful work has privacy costs. Ars Technica reports that a tech columnist said Muse sent him a notification referencing a private message thread he says he never gave it permission to read. On Friday, Apple said it is changing its Mac privacy settings so third-party apps can&#x27;t misuse broad file-access permissions to reach message histories. The details come from news reports, and we haven&#x27;t seen Meta&#x27;s side in these items.</p>
+<p><strong>Why it matters:</strong> If you or your clients use an AI assistant that can see messages, calendars or files, it may see more than you intended, and client confidences could be exposed.</p>
+<p><strong>Try this:</strong> Open the permissions or privacy settings on any AI assistant you use and switch off access to messages, email and files it doesn&#x27;t truly need. Do this especially on any device where client conversations live.</p>
+<p>Sources: <a href="https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/">wired.com</a> · <a href="https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/">arstechnica.com</a></p>
+<h2>A fake ChatGPT ad on Google is tricking people into installing malware</h2>
+<p>ZDNET describes a scam that starts with a sponsored Google link that looks like an official ChatGPT page. People who follow it can end up installing malicious software. The report says the lookalike pages are convincing and are catching people off guard.</p>
+<p><strong>Why it matters:</strong> One careless click on a work computer can expose client notes, payment details and your business accounts.</p>
+<p><strong>Try this:</strong> Don&#x27;t reach AI tools through search ads. Bookmark the real site, or type the address directly, and tell any staff or assistants to do the same.</p>
+<p>Sources: <a href="https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/">zdnet.com</a></p>
+<h2>Google is cutting free Gemini access to its lightest model from October 9</h2>
+<p>According to The Verge, from October 9 free Gemini users will only get the entry-level Flash Lite model. The standard Flash model will need the $4.99-a-month AI Plus plan. That plan is also losing access to the top-tier Gemini Pro model. Pro and the advanced &quot;Deep Think&quot; reasoning option will be reserved for higher-priced plans.</p>
+<p><strong>Why it matters:</strong> If you rely on free Gemini for drafting emails, session summaries or marketing copy, the quality and speed you&#x27;re used to may change.</p>
+<p><strong>Try this:</strong> Before October 9, note which of your regular Gemini tasks matter most. Then rerun one afterward and decide whether the free version is still good enough or worth paying for.</p>
+<p>Sources: <a href="https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only">theverge.com</a></p>
+<h2>AI job interviewers are becoming real: HackerRank says its tool has run over 500,000</h2>
+<p>TechCrunch reports that HackerRank&#x27;s AI interviewer has conducted more than 500,000 interviews, with Snowflake, Snorkel and Capgemini among early testers. The figure comes from the company. HackerRank mainly serves technical hiring, so this shows a direction rather than a widespread practice.</p>
+<p><strong>Why it matters:</strong> Clients who are job hunting may soon face an AI interviewer, and small businesses will be pitched similar tools for screening candidates.</p>
+<p><strong>Try this:</strong> If you coach job seekers, add a practice round on talking to an AI interviewer. If you hire, ask any screening vendor how candidates are judged and whether a person reviews the results.</p>
+<p>Sources: <a href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/">techcrunch.com</a></p>
+<h2>A new AI relationship-advice service says it is built to avoid emotional dependency</h2>
+<p>TechCrunch profiles Hot Girl Hotline, founded by two sisters, which uses AI to give young women personalized dating and relationship advice. The founders say they emphasize safety and avoiding emotional dependency. These are the company&#x27;s own claims, and the article gives no independent evidence of how well it works.</p>
+<p><strong>Why it matters:</strong> It is another example of AI taking on advice-giving roles close to coaching, and clients may already be using services like this between sessions.</p>
+<p><strong>Try this:</strong> Ask clients, without judgment, whether they use AI tools for personal advice. Then work out what you would want to say about when a human is the better choice.</p>
+<p>Sources: <a href="https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/">techcrunch.com</a></p>
+<h2>Worth watching</h2><ul>
+<li>OpenAI is launching visual ads in ChatGPT in the U.S. later this month for an initial test group of advertisers, a possible new place for small businesses to advertise. <a href="https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/">Source</a></li>
+<li>OpenAI will add invisible watermarks to ChatGPT text for EU users, and editing the text can make the marks harder to detect, which matters if you create content for European audiences. <a href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/">Source</a></li>
+<li>Ars Technica reports that several organizations, including Google, have acknowledged weaknesses where one AI agent can pass harmful instructions to others, a reason to be careful when connecting agents to business data. <a href="https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/">Source</a></li>
+</ul>
+<h2>One thing to explore: Gemini &quot;skills&quot; in Google Workspace</h2>
+<p>Google is rolling out skills, which are reusable instructions you save for Gemini, to Workspace users over the coming weeks, and they will eventually replace Gems. If you use Gmail or Docs, spend 20 minutes turning one repeated task, like a follow-up email after a client session, into a saved skill. Start with the Workspace weekly recap to see what&#x27;s available. <a href="http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-02-2026.html">Start here</a></p>
+<hr><p><small>AI-generated with no human review; may contain errors. Verify with the sources and use your own judgment. Dan Bough isn&#x27;t responsible for its accuracy.<br><a href="https://www.linkedin.com/in/dan-bough/">Dan Bough</a> · <a href="https://completelyhumancoaching.com">Completely Human Coaching</a> · <a href="https://www.linkedin.com/in/dan-bough/">Feedback</a> · <a href="https://ai.completelyhumancoaching.com/about.html">How this works</a></small></p>]]></content:encoded>
+  </item>
+  <item>
     <title>Friday, October 2, 2026: OpenAI teams up with small business centers on AI training, and publishes a report on small-team use</title>
     <link>https://ai.completelyhumancoaching.com/issues/2026-10-02.html</link>
     <guid isPermaLink="true">https://ai.completelyhumancoaching.com/issues/2026-10-02.html</guid>
@@ -45,7 +86,7 @@
 </ul>
 <h2>One thing to explore: Zapier&#x27;s roundup of the 7 best meeting scheduler apps</h2>
 <p>If you still trade emails to book sessions or client calls, a scheduling app can handle the back-and-forth, block open slots in your calendar and send the video link. Spend 20 minutes with Zapier&#x27;s comparison, pick one that has a free tier, and test it with one friendly client. Zapier makes its own automation tools, so weigh its picks accordingly. <a href="https://zapier.com/blog/best-meeting-scheduler-apps">Start here</a></p>
-<hr><p><small>AI-generated with no human review; may contain errors. Verify with the sources and use your own judgment.<br><a href="https://www.linkedin.com/in/dan-bough/">Dan Bough</a> · <a href="https://completelyhumancoaching.com">Completely Human Coaching</a> · <a href="https://www.linkedin.com/in/dan-bough/">Feedback</a> · <a href="https://ai.completelyhumancoaching.com/about.html">How this works</a></small></p>]]></content:encoded>
+<hr><p><small>AI-generated with no human review; may contain errors. Verify with the sources and use your own judgment. Dan Bough isn&#x27;t responsible for its accuracy.<br><a href="https://www.linkedin.com/in/dan-bough/">Dan Bough</a> · <a href="https://completelyhumancoaching.com">Completely Human Coaching</a> · <a href="https://www.linkedin.com/in/dan-bough/">Feedback</a> · <a href="https://ai.completelyhumancoaching.com/about.html">How this works</a></small></p>]]></content:encoded>
   </item>
   <item>
     <title>Tuesday, September 29, 2026: Meta is bringing its Muse AI agent to small businesses</title>
@@ -94,7 +135,7 @@
 <li>Microsoft is rolling out a new all-in-one Copilot app with agents, and ZDNET notes the pricing is still &quot;evolving,&quot; so watch your Microsoft 365 bill. <a href="https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/">Source</a></li>
 <li>McKinsey&#x27;s new research on skills and pathways between shrinking and growing US occupations may help coaches working with clients in career transition. <a href="https://www.mckinsey.com/mgi/our-research/workforce-in-motion-skills-and-pathways-to-future-jobs-in-the-united-states">Source</a></li>
 </ul>
-<hr><p><small>AI-generated with no human review; may contain errors. Verify with the sources and use your own judgment.<br><a href="https://www.linkedin.com/in/dan-bough/">Dan Bough</a> · <a href="https://completelyhumancoaching.com">Completely Human Coaching</a> · <a href="https://www.linkedin.com/in/dan-bough/">Feedback</a> · <a href="https://ai.completelyhumancoaching.com/about.html">How this works</a></small></p>]]></content:encoded>
+<hr><p><small>AI-generated with no human review; may contain errors. Verify with the sources and use your own judgment. Dan Bough isn&#x27;t responsible for its accuracy.<br><a href="https://www.linkedin.com/in/dan-bough/">Dan Bough</a> · <a href="https://completelyhumancoaching.com">Completely Human Coaching</a> · <a href="https://www.linkedin.com/in/dan-bough/">Feedback</a> · <a href="https://ai.completelyhumancoaching.com/about.html">How this works</a></small></p>]]></content:encoded>
   </item>
 </channel>
 </rss>

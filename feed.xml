@@ -7,6 +7,53 @@
   <description>What&#x27;s changing in AI that actually affects coaches and small businesses, in plain language. New issues every Tuesday and Friday by 7 a.m. Eastern.</description>
   <language>en-us</language>
   <item>
+    <title>Friday, October 9, 2026: A free note-taker can transcribe meetings without sending audio to the cloud</title>
+    <link>https://ai.completelyhumancoaching.com/issues/2026-10-09.html</link>
+    <guid isPermaLink="true">https://ai.completelyhumancoaching.com/issues/2026-10-09.html</guid>
+    <pubDate>Fri, 09 Oct 2026 07:00:00 -0400</pubDate>
+    <description>Lately, the most useful AI news for coaches and small business owners is about how AI is entering the everyday tools and workplaces they already use, not about new models. The clearest concrete item is a free meeting note-taker that can transcribe offline, which matters for anyone handling confidential client conversations. Little in this batch was coaching research, and most of the rest was industry news with no direct effect on these readers.</description>
+    <content:encoded><![CDATA[<p><em>Lately, the most useful AI news for coaches and small business owners is about how AI is entering the everyday tools and workplaces they already use, not about new models. The clearest concrete item is a free meeting note-taker that can transcribe offline, which matters for anyone handling confidential client conversations. Little in this batch was coaching research, and most of the rest was industry news with no direct effect on these readers.</em></p>
+<h2>A free note-taker can transcribe meetings without sending audio to the cloud</h2>
+<p>Google has released AI Edge Foresight, a free and experimental app that transcribes meetings and audio files entirely on your computer, with no online processing. It works on Mac, summarizes meetings, and lets you type your own notes alongside the transcript. Google&#x27;s claims about how it works are the company&#x27;s own, and no outside testing is included in these reports.</p>
+<p><strong>Why it matters:</strong> Session recordings and notes often contain the most sensitive client material, so a tool that keeps audio on your own device could reduce privacy risk for coaches and owners who handle client or staff information.</p>
+<p><strong>Try this:</strong> Before your next session, check where your current note-taker stores recordings and whether it trains on them, then test a local option on a practice call, not a real client.</p>
+<p>Sources: <a href="https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline">theverge.com</a> · <a href="https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/">techcrunch.com</a></p>
+<h2>Managers are using AI to write performance reviews, and it shows</h2>
+<p>ZDNET reports on a survey asking whether AI helps or hurts feedback at work, and its headline says the effects are visible in the reviews themselves. The snippet does not give the sample size or say who ran the survey. Treat the specific findings as a starting point until you can see the full report.</p>
+<p><strong>Why it matters:</strong> Many coaching clients are managers, and performance feedback is one of the places where AI shortcuts can damage trust with the people being reviewed.</p>
+<p><strong>Try this:</strong> Ask a manager client whether they draft reviews with AI, then have them read an AI-drafted review aloud to check whether it sounds like them and says something specific.</p>
+<p>Sources: <a href="https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/">zdnet.com</a></p>
+<h2>Stanford says AI rollouts fail when they are sold as a productivity tool</h2>
+<p>Stanford&#x27;s Human-Centered AI institute argues that whether employees embrace AI depends less on the technology and more on why it is brought in and how success is measured. Its warning is that selling AI mainly as a way to save time can turn staff against it. The snippet does not say whether the argument rests on a particular study.</p>
+<p><strong>Why it matters:</strong> Owners and leaders who announce AI as a cost-cutting or speed tool may get resistance, and the same concern comes up often in leadership coaching.</p>
+<p><strong>Try this:</strong> Before your next AI change, write one sentence about what the change is for beyond saving time, and ask your team what they would want to get better at.</p>
+<p>Sources: <a href="https://hai.stanford.edu/news/want-employees-to-embrace-ai-stop-selling-it-as-a-productivity-tool">hai.stanford.edu</a></p>
+<h2>States are starting to set rules on AI in job decisions, slowly and unevenly</h2>
+<p>ZDNET reports that regulation of AI at work is moving slowly and so far mostly at the state level, with rules meant to protect workers from being fired by AI. The article describes a patchwork rather than a single national standard. The snippet does not list specific state laws.</p>
+<p><strong>Why it matters:</strong> If you have employees, AI-related rules on hiring and firing may apply to you depending on where you operate, and clients facing AI-driven layoffs may ask what protections exist.</p>
+<p><strong>Try this:</strong> If you have staff, check with your state labor office or an employment lawyer about any AI-related rules that apply to hiring, evaluations, or firing.</p>
+<p>Sources: <a href="https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/">zdnet.com</a></p>
+<h2>Personal AI &#x27;agents&#x27; that run errands are spreading, with mixed early reviews</h2>
+<p>A new group of consumer AI agents, including Instinct, Meta&#x27;s Muse, and OpenAI&#x27;s Dots, promise to handle chores like booking appointments and sending follow-up emails from a text message or app. Early reviews are mixed. One Wired reviewer found Dots buggy and said it could not complete a CAPTCHA, and reported an unsettling emotional exchange with the agent. That is one person&#x27;s experience, not a controlled test.</p>
+<p><strong>Why it matters:</strong> Clients may already be letting these tools act for them, which can shape their expectations of coaching, admin, and how they handle personal information.</p>
+<p><strong>Try this:</strong> Ask a client which AI tools they have allowed to send messages or book things for them, and what those tools can access.</p>
+<p>Sources: <a href="https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/">wired.com</a> · <a href="https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots">theverge.com</a></p>
+<h2>Google&#x27;s Gemini is becoming a background agent across Gmail, Docs, and Calendar</h2>
+<p>Google is launching a &#x27;universal&#x27; Gemini agent that can work in the background across Gmail, Drive, Docs, Sheets, and Calendar, and take tasks from a phone, web browser, or apps like Slack. TechCrunch reports it can hand work to other agents and gets its own work email address. The product is aimed at businesses through Gemini Enterprise, and these reports do not give pricing or a full rollout timeline.</p>
+<p><strong>Why it matters:</strong> If you run your business on Google Workspace, a background agent that can read and act on your email and files changes what you need to control.</p>
+<p><strong>Try this:</strong> If you use Google Workspace, check with whoever manages your account before turning on any new Gemini agent, and decide in advance what it is allowed to access.</p>
+<p>Sources: <a href="https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise">theverge.com</a> · <a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">techcrunch.com</a></p>
+<h2>Worth watching</h2><ul>
+<li>Google has made its tool for checking whether an image or video was made by its AI free for anyone, though it only catches content carrying those hidden marks. <a href="https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/">Source</a></li>
+<li>Google is cutting free Gemini users off from its stronger models, so free accounts may give weaker results for business tasks. <a href="https://www.zdnet.com/innovation/google-ai-free-model-access-limited/">Source</a></li>
+<li>Anthropic has updated Claude&#x27;s usage rules and flagged health and financial uses as higher-risk, so read the new rules if you use Claude for client-facing material. <a href="https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/">Source</a></li>
+<li>A certification stamp for books written by people is being launched, which may become a trust signal for coaches who publish. <a href="https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/">Source</a></li>
+</ul>
+<h2>One thing to explore: A practical AI adoption guide for small teams</h2>
+<p>Zapier&#x27;s guide covers the common problems of rolling out AI: messy launches, too many tools, and unclear guidelines. Spend 20 minutes on it, then draft a one-page note on how you and your team will and won&#x27;t use AI. Zapier sells automation software, so read its advice with that in mind. <a href="https://zapier.com/blog/ai-adoption">Start here</a></p>
+<hr><p><small>AI-generated with no human review; may contain errors. Verify with the sources and use your own judgment. Dan Bough isn&#x27;t responsible for its accuracy.<br><a href="https://www.linkedin.com/in/dan-bough/">Dan Bough</a> · <a href="https://completelyhumancoaching.com">Completely Human Coaching</a> · <a href="https://www.linkedin.com/in/dan-bough/">Feedback</a> · <a href="https://ai.completelyhumancoaching.com/about.html">How this works</a></small></p>]]></content:encoded>
+  </item>
+  <item>
     <title>Tuesday, October 6, 2026: Meta&#x27;s Muse AI assistant raises privacy alarms, and Apple tightens its Mac settings in response</title>
     <link>https://ai.completelyhumancoaching.com/issues/2026-10-06.html</link>
     <guid isPermaLink="true">https://ai.completelyhumancoaching.com/issues/2026-10-06.html</guid>

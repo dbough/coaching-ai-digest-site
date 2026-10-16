@@ -7,6 +7,58 @@
   <description>What&#x27;s changing in AI that actually affects coaches and small businesses, in plain language. New issues every Tuesday and Friday by 7 a.m. Eastern.</description>
   <language>en-us</language>
   <item>
+    <title>Friday, October 16, 2026: Amazon&#x27;s Bee AI recorders now summarize conversations</title>
+    <link>https://ai.completelyhumancoaching.com/issues/2026-10-16.html</link>
+    <guid isPermaLink="true">https://ai.completelyhumancoaching.com/issues/2026-10-16.html</guid>
+    <pubDate>Fri, 16 Oct 2026 07:00:00 -0400</pubDate>
+    <description>Lately, AI is moving into the places where coaches and small business owners do their most private work: recording sessions, reading email, and joining team conversations. Two new research pieces raise a useful question about whether leaning on AI weakens the human judgment and working relationships your clients rely on. Most of the other AI news this week was aimed at developers or big companies and did not pass the filter.</description>
+    <content:encoded><![CDATA[<p><em>Lately, AI is moving into the places where coaches and small business owners do their most private work: recording sessions, reading email, and joining team conversations. Two new research pieces raise a useful question about whether leaning on AI weakens the human judgment and working relationships your clients rely on. Most of the other AI news this week was aimed at developers or big companies and did not pass the filter.</em></p>
+<h2>Amazon&#x27;s Bee AI recorders now summarize conversations</h2>
+<p>Amazon-owned Bee has launched its first new devices since the acquisition: an updated wearable and a credit-card-sized recorder that clips onto a phone. The devices can summarize conversations, create to-do lists, and connect to Alexa and Amazon shopping, starting at about $75. These are the company&#x27;s own descriptions of what the devices do, and nothing in the report independently checks how accurate the summaries are.</p>
+<p><strong>Why it matters:</strong> A small recorder that summarizes conversations puts client sessions and team meetings into a new kind of tool, and that raises consent and confidentiality questions before it raises productivity ones.</p>
+<p><strong>Try this:</strong> Before you record any client conversation with any device, ask for clear verbal consent, and find out where the audio is stored and who can access it.</p>
+<p>Sources: <a href="https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/">techcrunch.com</a></p>
+<h2>Researchers warn that too much reliance on AI may wear down human judgment</h2>
+<p>An MIT Sloan Management Review and Boston Consulting Group expert panel, now in its fifth year, says new research suggests that overusing or over-relying on AI may weaken people&#x27;s thinking and moral judgment. The article uses the term &quot;epistemic de-skilling,&quot; which means losing the ability to judge things for yourself. The panel&#x27;s summary does not give sample sizes or methods, so these findings should be read as early and not yet settled.</p>
+<p><strong>Why it matters:</strong> Coaches and business owners are paid to make sound judgment calls, and a tool that quietly replaces that judgment could weaken the skill they sell.</p>
+<p><strong>Try this:</strong> Pick one recurring decision in your business, such as hiring, pricing, or how you respond to a difficult client, and write down the exact step where a human makes the final call, not the AI.</p>
+<p>Sources: <a href="https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/">sloanreview.mit.edu</a></p>
+<h2>Google&#x27;s AI Inbox summaries and to-do lists reach paid Workspace accounts</h2>
+<p>Google is expanding AI Inbox to paid Google Workspace accounts, the business version of Gmail. It pulls action items and deadlines out of email threads and summarizes priority work updates. Google describes these features itself, and the announcement does not show how well they work in practice.</p>
+<p><strong>Why it matters:</strong> If your business runs on paid Google Workspace, this changes what your inbox shows you by default, and email often holds the most sensitive client details.</p>
+<p><strong>Try this:</strong> If you use paid Workspace, ask whoever manages your account where AI Inbox is turned on, and read the privacy terms before turning it on for your whole team.</p>
+<p>Sources: <a href="http://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html">workspaceupdates.googleblog.com</a></p>
+<h2>A new state-by-state dashboard tallies AI-linked job cuts</h2>
+<p>A new dashboard called CAIS&#x27; Wage Loss Dashboard puts AI-related job cuts into dollar amounts for each U.S. state. ZDNET&#x27;s summary does not explain how the tracker decides a job cut is linked to AI, so the numbers are best read as rough estimates.</p>
+<p><strong>Why it matters:</strong> Many coaches work with people who are changing jobs or worrying about being replaced, and local numbers can help you talk about that with more grounding.</p>
+<p><strong>Try this:</strong> Before quoting any state figure to a client or in marketing, open the dashboard and read how it counts AI-related cuts.</p>
+<p>Sources: <a href="https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/">zdnet.com</a></p>
+<h2>Moving an AI tool from trial to everyday use can nearly quadruple its cost</h2>
+<p>A McKinsey explainer says that moving an AI tool from a pilot, meaning a trial run, into everyday production use can nearly quadruple its cost. It also offers a way to judge whether the tool is worth the price. McKinsey&#x27;s examples mostly come from large companies, so the exact multiple may be different for a small business.</p>
+<p><strong>Why it matters:</strong> A free trial can look cheap, and small businesses that scale up without checking the real monthly cost can end up paying much more than they planned.</p>
+<p><strong>Try this:</strong> Before you pay for an AI tool past its free trial, write down what it should save you each month, then compare that to the full everyday price, not the trial price.</p>
+<p>Sources: <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-does-ai-really-cost">mckinsey.com</a></p>
+<h2>OpenAI reports growing use of AI agents among EU small businesses</h2>
+<p>OpenAI has published an analysis of how AI agents, tools that can carry out several steps of a task on their own, are being adopted across EU companies and small businesses. The analysis also looks at where deeper use could create more value. OpenAI sells these tools, so its adoption figures reflect its own view, and the report is not an independent survey.</p>
+<p><strong>Why it matters:</strong> It is one of the few snapshots of how small businesses are actually adopting AI agents, which can help you see what peers are doing, though the source has a stake in the answer.</p>
+<p><strong>Try this:</strong> If a vendor pitches you an AI agent, ask which repeated task it would handle for you, what it costs per month, and how you would stop it if it made a mistake.</p>
+<p>Sources: <a href="https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic">openai.com</a></p>
+<h2>An AI assistant asks for access to your friends&#x27; data too</h2>
+<p>Meta&#x27;s Muse AI assistant has reportedly been downloaded millions of times since its launch last month, according to The Verge. The article argues that such assistants ask users to share not just their own information but also details about friends, family, and other people who never agreed to it. The article is commentary on how these apps are designed, not a test of how they handle data.</p>
+<p><strong>Why it matters:</strong> Coaches and business owners hold other people&#x27;s private information, so connecting an AI assistant to your phone or email can expose client details you are responsible for protecting.</p>
+<p><strong>Try this:</strong> Before connecting any AI assistant to your phone, contacts, or email, check exactly what it can read, and keep client contact details and messages out of it unless you have checked its privacy terms.</p>
+<p>Sources: <a href="https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent">theverge.com</a></p>
+<h2>Worth watching</h2><ul>
+<li>Stanford&#x27;s Human-Centered AI group has an expert conversation on who is responsible when AI causes harm, a question that still has no clear answer and matters if you use AI in client-facing work. <a href="https://hai.stanford.edu/news/who-is-responsible-when-ai-causes-harm">Source</a></li>
+<li>Google DeepMind and Singapore&#x27;s government built an AI model that runs on a phone to catch scam messages in private chats without sending them to the cloud, but nothing in the post shows that small businesses can use it yet. <a href="https://deepmind.google/blog/on-device-ai-scam-detection-mddi/">Source</a></li>
+<li>The Verge reports fake AI images posted under real public figures&#x27; names, a pattern that could reach coaches who have a public face and a large following. <a href="https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth">Source</a></li>
+<li>Google&#x27;s AI Studio now lets people with no coding background describe a simple Android app and get one built, which may soon matter for small businesses that want a simple internal tool. <a href="https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/">Source</a></li>
+</ul>
+<h2>One thing to explore: Human-in-the-loop: a plain guide to keeping a person in charge of AI-powered automations</h2>
+<p>Zapier&#x27;s guide explains &quot;human-in-the-loop,&quot; which means building AI-powered workflows so a person checks the output before anything goes out. Spend 20 minutes on its practical patterns, then pick one automation you already run, such as a client follow-up email, and add a review step. Zapier is a vendor, so treat its examples as a starting point rather than a verdict on any particular tool. <a href="https://zapier.com/blog/human-in-the-loop">Start here</a></p>
+<hr><p><small>AI-generated with no human review; may contain errors. Verify with the sources and use your own judgment. Dan Bough isn&#x27;t responsible for its accuracy.<br><a href="https://www.linkedin.com/in/dan-bough/">Dan Bough</a> · <a href="https://completelyhumancoaching.com">Completely Human Coaching</a> · <a href="https://www.linkedin.com/in/dan-bough/">Feedback</a> · <a href="https://ai.completelyhumancoaching.com/about.html">How this works</a></small></p>]]></content:encoded>
+  </item>
+  <item>
     <title>Tuesday, October 13, 2026: Stanford study: people are asking chatbots for more important tasks, and results depend on how they work together</title>
     <link>https://ai.completelyhumancoaching.com/issues/2026-10-13.html</link>
     <guid isPermaLink="true">https://ai.completelyhumancoaching.com/issues/2026-10-13.html</guid>
